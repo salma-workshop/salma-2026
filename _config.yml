@@ -1,0 +1,13 @@
+title: "SALMA 2026"
+description: "Speech and Audio Language Models Workshop (2nd Edition) — Co-located with EMNLP 2026"
+baseurl: "/salma-2026"
+url: ""
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - content
