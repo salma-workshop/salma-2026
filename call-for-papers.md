@@ -70,8 +70,8 @@ SALMA 2026 welcomes commitments of papers reviewed through **ACL Rolling Review 
 
 ## Submission Links
 
-- **Direct Submission:** <span class="tbd-badge">TBD</span>
-- **ARR Commitment:** <span class="tbd-badge">TBD</span>
+- **Direct Submission:** [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/SALMA)
+- **ARR Commitment:** [OpenReview](https://openreview.net/group?id=EMNLP/2026/Workshop/SALMA_ARR_Commitment)
 
 ## Important Dates
 
