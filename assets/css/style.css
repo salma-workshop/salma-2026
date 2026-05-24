@@ -1,15 +1,15 @@
 :root {
-  --color-primary: #0a1628;
-  --color-primary-light: #1a3a5c;
+  --color-primary: #0f1e36;
+  --color-primary-light: #1e4976;
   --color-accent: #e05252;
   --color-accent-light: #f47171;
   --color-bg: #ffffff;
-  --color-bg-alt: #f0f4f8;
+  --color-bg-alt: #f0f5fa;
   --color-bg-dark: #060d1a;
   --color-text: #2d3748;
   --color-text-light: #718096;
-  --color-border: #cdd8e4;
-  --color-highlight: #edf2f7;
+  --color-border: #c8d6e5;
+  --color-highlight: #eaf1f8;
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-serif: 'Source Serif 4', Georgia, serif;
   --max-width: 960px;
@@ -114,7 +114,7 @@ body {
 
 /* Hero */
 .hero {
-  background: #0a1628;
+  background: #0f1e36;
   color: #fff;
   text-align: center;
   margin: 0;
@@ -126,7 +126,7 @@ body {
   width: 100%;
   line-height: 0;
   font-size: 0;
-  background: #0a1628;
+  background: #0f1e36;
   margin: 0;
   padding: 0;
   overflow: hidden;
