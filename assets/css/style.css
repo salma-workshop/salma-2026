@@ -1,15 +1,15 @@
 :root {
-  --color-primary: #4c1d95;
-  --color-primary-light: #6d28d9;
-  --color-accent: #ec4899;
-  --color-accent-light: #f472b6;
+  --color-primary: #0a1628;
+  --color-primary-light: #1a3a5c;
+  --color-accent: #e05252;
+  --color-accent-light: #f47171;
   --color-bg: #ffffff;
-  --color-bg-alt: #faf5ff;
-  --color-bg-dark: #1e1b4b;
+  --color-bg-alt: #f0f4f8;
+  --color-bg-dark: #060d1a;
   --color-text: #2d3748;
   --color-text-light: #718096;
-  --color-border: #e9d5ff;
-  --color-highlight: #f5f3ff;
+  --color-border: #cdd8e4;
+  --color-highlight: #edf2f7;
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-serif: 'Source Serif 4', Georgia, serif;
   --max-width: 960px;
@@ -71,8 +71,6 @@ body {
   height: 36px;
   width: 36px;
   border-radius: 50%;
-  border: 1px solid #fff;
-  background: #fff;
 }
 
 .nav-links {
@@ -116,7 +114,7 @@ body {
 
 /* Hero */
 .hero {
-  background: #a97dbc;
+  background: #0a1628;
   color: #fff;
   text-align: center;
   margin: 0;
@@ -128,7 +126,7 @@ body {
   width: 100%;
   line-height: 0;
   font-size: 0;
-  background: #a97dbc;
+  background: #0a1628;
   margin: 0;
   padding: 0;
   overflow: hidden;
