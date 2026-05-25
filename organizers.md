@@ -17,7 +17,7 @@ permalink: /organizers/
     <!-- DROP: assets/images/sreyan_ghosh.jpg -->
     <img src="{{ '/assets/images/sreyan_ghosh.jpg' | relative_url }}" alt="Sreyan Ghosh" class="person-photo">
     <h3>Sreyan Ghosh</h3>
-    <p>Google DeepMind</p>
+    <p>Google DeepMind, USA</p>
   </div>
   <div class="person-card">
     <!-- DROP: assets/images/ramani_duraiswami.jpg -->
