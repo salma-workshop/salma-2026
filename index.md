@@ -26,12 +26,13 @@ All deadlines are **11:59 PM UTC-12:00** ("Anywhere on Earth").
     <tr><td>ARR Commitment Deadline</td><td class="date-highlight">August 26, 2026</td></tr>
     <tr><td>Acceptance Notifications</td><td>September 9, 2026</td></tr>
     <tr><td>Camera-ready Deadline</td><td>September 23, 2026</td></tr>
-    <tr><td>Workshop Date</td><td class="date-highlight">During EMNLP 2026, October 24&ndash;29</td></tr>
+    <tr><td>Workshop Date</td><td class="date-highlight">Wednesday, October 28, 2026 (Room F9-10)</td></tr>
   </tbody>
 </table>
 
 ## News
 
+- **October 2026** -- The [workshop program]({{ site.baseurl }}/program/) is now available.
 - **April 2026** -- Website launched. Stay tuned for updates!
 - Call for Papers is now open! See the [Call for Papers]({{ '/call-for-papers/' | relative_url }}) page for details.
 
