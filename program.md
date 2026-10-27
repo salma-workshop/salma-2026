@@ -20,13 +20,13 @@ All times are local Budapest time (CET, UTC+1).
     <tr><td style="white-space:nowrap">9:00 &ndash; 9:05</td><td>Opening Ceremony</td></tr>
     <tr><td style="white-space:nowrap">9:05 &ndash; 10:00</td><td><strong>Keynote 1:</strong> Philipp Koehn (Johns Hopkins University)</td></tr>
     <tr><td style="white-space:nowrap">10:00 &ndash; 11:00</td><td><strong>Keynote 2:</strong> Berrak Sisman (Johns Hopkins University)</td></tr>
-    <tr><td style="white-space:nowrap">11:00 &ndash; 11:30</td><td><em>Coffee Break</em> &amp; <strong>Poster Session</strong> (see the list of posters below)</td></tr>
+    <tr><td style="white-space:nowrap">11:00 &ndash; 11:30</td><td><em>Coffee Break</em></td></tr>
     <tr><th colspan="2">Session 2 (11:30 &ndash; 12:30)</th></tr>
     <tr><td style="white-space:nowrap">11:30 &ndash; 12:30</td><td><strong>Keynote 3:</strong> Gabriel Skantze (KTH Royal Institute of Technology)</td></tr>
-    <tr><td style="white-space:nowrap">12:30 &ndash; 14:00</td><td><em>Lunch Break</em> &amp; <strong>Poster Session</strong> (see the list of posters below)</td></tr>
+    <tr><td style="white-space:nowrap">12:30 &ndash; 14:00</td><td><em>Lunch Break</em> &amp; <strong>Poster Session</strong> &middot; Boards 297&ndash;309 (see the list of posters below)</td></tr>
     <tr><th colspan="2">Session 3 (14:00 &ndash; 15:00)</th></tr>
     <tr><td style="white-space:nowrap">14:00 &ndash; 15:00</td><td><strong>Keynote 4:</strong> Sebastian Möller (Technische Universität Berlin)</td></tr>
-    <tr><td style="white-space:nowrap">15:00 &ndash; 15:30</td><td><em>Coffee Break</em> &amp; <strong>Poster Session</strong> (see the list of posters below)</td></tr>
+    <tr><td style="white-space:nowrap">15:00 &ndash; 15:30</td><td><em>Coffee Break</em></td></tr>
     <tr><th colspan="2">Session 4 (15:30 &ndash; 17:35)</th></tr>
     <tr><td style="white-space:nowrap">15:30 &ndash; 16:30</td><td><strong>Keynote 5:</strong> Piotr Żelasko (NVIDIA)</td></tr>
     <tr><td style="white-space:nowrap">16:30 &ndash; 17:30</td><td><strong>Keynote 6:</strong> Julia Hirschberg (Columbia University)</td></tr>
@@ -36,7 +36,7 @@ All times are local Budapest time (CET, UTC+1).
 
 ## Poster Session
 
-All accepted papers are presented as posters during the coffee and lunch breaks: 11:00 &ndash; 11:30, 12:30 &ndash; 14:00 and 15:00 &ndash; 15:30.
+All accepted papers are presented as posters during the lunch break, 12:30 &ndash; 14:00, on <strong>boards 297&ndash;309</strong>. Presenters: please use these boards to display your posters.
 
 <ol>
   <li><em>CVSS-X: A Multilingual Speech-to-Speech Translation Corpus for 28 Languages</em><br><span style="font-size:0.9em">Lucas Rafael Stefanel Gris, Alef Iury Siqueira Ferreira, F S de Oliveira, Augusto Seben da Rosa, Alexandre Costa Ferro Filho, Arlindo Rodrigues Galvão Filho and Anderson Da Silva Soares</span><br><span style="font-size:0.85em">Presenter: Alef Iury Siqueira Ferreira (virtual)</span></li>
