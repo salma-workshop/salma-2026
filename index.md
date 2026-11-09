@@ -13,6 +13,19 @@ Speech and audio are among the most natural, information-dense, and temporally g
 
 The workshop centers on architectural design, training paradigms, data creation, alignment, and evaluation methodologies for large audio-language models, spanning speech, non-speech sounds, music, and mixed audio environments. SALMA aims to bridge NLP and speech/audio communities around shared architectures, objectives, benchmarks, and evaluation practices.
 
+## Best Paper Awards
+
+Congratulations to the winners of the SALMA 2026 Best Paper Awards! All accepted archival papers are available in the [proceedings on the ACL Anthology](https://aclanthology.org/volumes/2026.salma-1/).
+
+<div class="highlight-box">
+<p><span class="award-badge">Best Paper Award</span><br>
+<a href="https://aclanthology.org/2026.salma-1.11/"><strong>CoSE-E: A Benchmark for Code-switched Speech Evaluation in Enterprise Settings</strong></a><br>
+Shama Gupta, Hoang H Nguyen, Chelsea Huang, Lindsay Devon Brin and Fanny Riols</p>
+<p><span class="award-badge">Best Paper Award</span><br>
+<a href="https://aclanthology.org/2026.salma-1.3/"><strong>When How You Speak Changes What Models Refuse: Investigating Prosody-Conditioned Safety Divergence in Audio-Language Models</strong></a><br>
+Akash Das and Ishan Roy</p>
+</div>
+
 ## Important Dates
 
 All deadlines are **11:59 PM UTC-12:00** ("Anywhere on Earth").
@@ -32,6 +45,7 @@ All deadlines are **11:59 PM UTC-12:00** ("Anywhere on Earth").
 
 ## News
 
+- **November 2026** -- Thank you for joining SALMA 2026! The [proceedings](https://aclanthology.org/volumes/2026.salma-1/) are now available on the ACL Anthology. Congratulations to our [Best Paper Award](#best-paper-awards) winners!
 - **October 2026** -- The [workshop program]({{ site.baseurl }}/program/) is now available.
 - **April 2026** -- Website launched. Stay tuned for updates!
 - Call for Papers is now open! See the [Call for Papers]({{ '/call-for-papers/' | relative_url }}) page for details.

@@ -301,8 +301,9 @@ main a:hover { color: var(--color-accent); }
   margin-bottom: 0;
 }
 
-/* TBD badge */
-.tbd-badge {
+/* TBD and best-paper badges */
+.tbd-badge,
+.award-badge {
   display: inline-block;
   background: var(--color-accent);
   color: #fff;
